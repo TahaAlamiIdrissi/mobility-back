@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/alami/.dotnet/store/|arch|/|tfm|",
+      "/home/alami/.nuget/packages"
+    ]
+  }
+}
