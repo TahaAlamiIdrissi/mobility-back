@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0hwHCXaZm4iqd/VBeH0jkatfrKx19ol7Acq6EkJXjgWZVU0n+ud1Y+oey0uUR7Vvw+5wP1GG7aeN0erRCrkkcQ==",
+  "dgSpecHash": "DFCEu37oiou3YbxdaaXjydHPbuh+rxOL6Mhaly3qurQaoVI5zrZcilLISlGPZ9vZBFb2mYQzo7DMpKjh2XqLTw==",
   "success": true,
   "projectFilePath": "/usr/local/src/csharp/AuthService/AuthService.csproj",
   "expectedPackageFiles": [
