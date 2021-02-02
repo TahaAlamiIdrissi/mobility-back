@@ -1,3 +1,3 @@
 # MOBILITY Project 
 
-See full documentation here :  <a href="github.com/TahaAlamiIdrissi/mobility-front"> DOCUMENTATION </a>
+See full documentation here :  github.com/TahaAlamiIdrissi/mobility-front/README.md
